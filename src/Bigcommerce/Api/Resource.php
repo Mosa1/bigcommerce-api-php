@@ -7,12 +7,12 @@ class Resource
     /**
      * @var \stdClass
      */
-    protected $fields;
+    public $fields;
 
     /**
      * @var int
      */
-    protected $id;
+    public $id;
 
     /**
      * @var array
